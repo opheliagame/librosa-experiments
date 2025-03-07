@@ -1,5 +1,5 @@
 # librosa scripts made by a visuals person
-## so be sure to find things that seem funny and most definitely unpolished
+so be sure to find things that seem funny and most definitely unpolished
 
 
 # refs for future self 
